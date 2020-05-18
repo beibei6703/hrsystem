@@ -1,0 +1,18 @@
+{
+    "code": 0,
+    "message": "成功!",
+    "appName": "hrm-system-service",
+    "data": [
+        {
+            "id": 1,
+            "employeeId": 11,
+            "docTypeEid": 1,
+            "resourceUrl": "http://",
+            "deleted": 0,
+            "gmtCreated": "2019-08-16T20:35:57.000+0000",
+            "gmtModified": "2019-08-16T20:35:57.000+0000",
+            "docTypeEname": "身份证扫描件/照片"
+        }
+    ],
+    "success": true
+}

@@ -1,0 +1,22 @@
+{
+    "code": 0,
+    "message": "成功!",
+    "appName": "hrm-system-service",
+    "data": {
+        "id": 1,
+        "employeeId": 1,
+        "bankEid": 1,
+        "bankEname": "bankEname",
+        "branckBanckId": 1,
+        "branchBank": "branchBank",
+        "cardOwner": "cardOwner",
+        "cardNo": "cardNo",
+        "salaryTypeEid": 1,
+        "salaryTypeEname": "salaryTypeEname",
+        "salaryAmount": "salaryAmount",
+        "salaryAmountProbation": "salaryAmountProbation",
+        "socialInsurancePlace": "socialInsurancePlace",
+        "socialInsuranceStartMonth": "socialInsuranceStartMonth"
+    },
+    "success": true
+}

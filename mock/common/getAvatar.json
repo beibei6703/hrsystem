@@ -1,0 +1,16 @@
+{
+  "msg": "成功",
+  "code": 200,
+  "success": true,
+  "data": [
+      {
+          "documentCount": 7,
+          "workCode": "0832",
+          "userAvatar": "http://p.qlogo.cn/bizmail/1n0nib1mxtmJ0NoNuC9iciaG7nrK1XdCQgaUKwzX1aGGkQbuMOOcCagZQ/0",
+          "resouceCount": 0,
+          "articleCount": 3,
+          "userName": "丹尼（格林）",
+          "admin": true
+      }
+  ]
+}

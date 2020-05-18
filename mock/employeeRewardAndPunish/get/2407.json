@@ -1,0 +1,19 @@
+{
+    "code": 0,
+    "message": "成功!",
+    "appName": "hrm-system-service",
+    "data": [{
+        "id": 1,
+        "employeeId": 1,
+        "rpTypeEid": 1,
+        "rpTypeEname": "奖惩类型",
+        "rpDate": "2019-08-19",
+        "departmentId": 1,
+        "departmentName": "部门名称",
+        "reason": "原因",
+        "penaltyGradeEid": 1,
+        "penaltyGradeEname": "处罚等级",
+        "penaltyAmount": 10
+    }],
+    "success": true
+}

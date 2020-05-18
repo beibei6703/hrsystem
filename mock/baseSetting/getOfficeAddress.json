@@ -1,0 +1,33 @@
+{
+    "code": 0,
+    "message": "成功!",
+    "appName": "hrm-system-service",
+    "data": [
+        {
+            "id": 1,
+            "name": "杭州湾信息港",
+            "cityEid": 1,
+            "address": "杭州湾信息港(建设三路)启迪路198号",
+            "gmtCreated": "2019-05-13T19:46:54.000+0000",
+            "gmtModified": "2019-05-13T19:46:54.000+0000",
+            "cityEname": "杭州"
+        }, {
+            "id": 2,
+            "name": "杭州新天地",
+            "cityEid": 1,
+            "address": "杭州下城区新天地商务中心14幢",
+            "gmtCreated": "2019-05-30T23:55:16.000+0000",
+            "gmtModified": "2019-06-03T19:08:43.000+0000",
+            "cityEname": "杭州"
+        }, {
+            "id": 6,
+            "name": "深圳研发",
+            "cityEid": 2,
+            "address": "广东省深圳市宝安区西乡街道共和工业路48号南科创银谷4楼",
+            "gmtCreated": "2019-05-30T23:55:50.000+0000",
+            "gmtModified": "2019-05-30T23:55:50.000+0000",
+            "cityEname": "深圳"
+        }
+    ],
+    "success": true
+}

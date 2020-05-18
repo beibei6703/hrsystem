@@ -1,0 +1,53 @@
+{
+    "code": 0,
+    "message": "成功!",
+    "appName": "hrm-system-service",
+    "data": {
+        "offset": 0,
+        "limit": 10,
+        "total": 2,
+        "count": null,
+        "pageNo": 1,
+        "pageSize": 10,
+        "list": [
+            {
+                "id": 2407,
+                "name": "肖尚略",
+                "workCode": "0001",
+                "cityEid": 1,
+                "companyName": null,
+                "departmentTree": null,
+                "positionId": 1,
+                "positionName": null,
+                "joinDate": "2014-01-05",
+                "mobile": "188",
+                "nickName": "泰迪",
+                "hrbpId": null,
+                "employTypeId": 1,
+                "posstionTypeId": null,
+                "posstionTypeName": null,
+                "cityEname": "杭州"
+            },
+            {
+                "id": 21,
+                "name": "测试人1",
+                "workCode": "73",
+                "cityEid": 1,
+                "companyName": null,
+                "departmentTree": null,
+                "positionId": 1,
+                "positionName": null,
+                "joinDate": "2019-08-11",
+                "mobile": null,
+                "nickName": "花名1",
+                "hrbpId": null,
+                "employTypeId": 1,
+                "posstionTypeId": null,
+                "posstionTypeName": null,
+                "cityEname": "杭州"
+            }
+        ],
+        "empty": false
+    },
+    "success": true
+}

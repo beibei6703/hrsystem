@@ -1,0 +1,16 @@
+{
+    "code": 0,
+    "message": "成功!",
+    "appName": "hrm-system-service",
+    "data": [
+        {
+            "id": 3,
+            "workCode": "133"
+        },
+        {
+            "id": 4,
+            "workCode": "134"
+        }
+    ],
+    "success": true
+}

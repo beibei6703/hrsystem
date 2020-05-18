@@ -1,0 +1,19 @@
+ {
+  "code": 0,
+  "message": "成功!",
+  "appName": "hrm-system-service",
+  "data": {
+    "hrbp": "王一",
+    "leader": "王二",
+    "level": 3,
+    "manager": "王三",
+    "name": "财务一部",
+    "id": 4,
+    "parentName": "财务部",
+    "parentId": 2,
+    "peopleCount": 12,
+    "subPeopleCount": 200,
+    "remark": "192839"
+  },
+  "success": true
+}

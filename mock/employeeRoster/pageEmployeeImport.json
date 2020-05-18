@@ -1,0 +1,44 @@
+{
+    "code": 0,
+    "message": "成功!",
+    "appName": "hrm-system-service",
+    "data": {
+        "offset": 0,
+        "limit": 50,
+        "total": 14,
+        "count": null,
+        "pageNo": 1,
+        "pageSize": 50,
+        "list": [
+            {
+                "id": 14,
+                "successCount": 1,
+                "successJson": "[{\"bankEid\":0,\"cityEid\":0,\"cityEname\":\"杭州\",\"contractCompany\":\"浙江集商优选电子商务有限公司\",\"contractCompanyId\":0,\"contractStatusEid\":0,\"contractStatusEname\":\"新签\",\"contractYears\":\"5\",\"employeeId\":0,\"endDate\":{\"date\":30,\"day\":4,\"hours\":0,\"minutes\":0,\"month\":6,\"seconds\":0,\"time\":1596038400000,\"timezoneOffset\":-480,\"year\":120},\"endDateStr\":\"2020-07-30\",\"id\":0,\"probation\":3,\"remark\":\"\",\"startDate\":{\"date\":1,\"day\":5,\"hours\":0,\"minutes\":0,\"month\":2,\"seconds\":0,\"time\":1551369600000,\"timezoneOffset\":-480,\"year\":119},\"startDateStr\":\"2019-03-01\",\"workCode\":\"66\"}]",
+                "operatorTypeId": 3,
+                "operatorId": 7,
+                "operatorName": null,
+                "gmtCreated": "2019-09-10 14:56:04"
+            },
+            {
+                "id": 9,
+                "successCount": 1,
+                "successJson": "[{\"employeeGradeEid\":0,\"employeeGradeEname\":\"P3A\",\"employeeId\":0,\"evaluation\":\"头30%\",\"id\":0,\"jobTitleId\":0,\"jobTitleName\":\"出纳\",\"name\":\"2018年底人才盘点\",\"performance\":\"高\",\"potential\":\"中\",\"result\":8,\"upgradeDate\":{\"date\":1,\"day\":2,\"hours\":0,\"minutes\":0,\"month\":0,\"seconds\":0,\"time\":1546272000000,\"timezoneOffset\":-480,\"year\":119},\"upgradeDateStr\":\"2019-03-01\",\"upgraded\":1,\"valuePoint\":\"A\",\"workCode\":\"1058\"}]",
+                "operatorTypeId": 2,
+                "operatorId": 14,
+                "operatorName": "柚柚(柚子)",
+                "gmtCreated": "2019-08-28 16:53:30"
+            },
+            {
+                "id": 3,
+                "successCount": 1,
+                "successJson": "[{\"birthPlace\":\"\",\"birthday\":null,\"certNo\":\"330112198701012234\",\"certTypeEid\":1,\"certTypeEname\":\"身份证\",\"checkin\":0,\"cityEid\":1,\"cityEname\":\"杭州\",\"contacterMobile\":\"\",\"contacterName\":\"\",\"contractCompanyId\":7,\"contractCompanyName\":\"浙江集商优选电子商务有限公司\",\"departmentId\":734,\"departmentName\":\"\",\"departmentTree\":\"云集/后台/IT部/IT产品技术组\",\"email\":\"lis@api.com\",\"employTypeId\":1,\"employTypeName\":\"正式员工\",\"employeeGradeEid\":1,\"employeeGradeEname\":\"P3A\",\"employeeStatusEid\":2,\"employeeStatusEname\":\"正式\",\"ethnicityEid\":0,\"ethnicityEname\":\"\",\"hadRecord\":0,\"handlerId\":0,\"handlerName\":\"\",\"hireTypeEid\":0,\"hireTypeEname\":\"\",\"houseAddr\":\"\",\"householdPlace\":\"\",\"householdTypeEid\":0,\"householdTypeEname\":\"\",\"hrbpId\":0,\"hrbpName\":\"\",\"id\":29,\"joinDate\":{\"date\":1,\"day\":0,\"hours\":0,\"minutes\":0,\"month\":8,\"seconds\":0,\"time\":1567267200000,\"timezoneOffset\":-480,\"year\":119},\"joinDateStr\":\"2019-03-01\",\"lastWorkDate\":null,\"leaderId\":1,\"leaderName\":\"1\",\"leaveApplyDate\":null,\"leaveConfirmId\":0,\"leaveDate\":null,\"leaveReason\":\"\",\"leaveSubordinateSuccessor\":\"\",\"married\":0,\"mobile\":\"\",\"name\":\"李四\",\"nationalityEid\":0,\"nationalityEname\":\"\",\"nativePlace\":\"\",\"nickname\":\"四四\",\"nicknameCheck\":0,\"personalEmail\":\"\",\"politicalStatusEid\":0,\"politicalStatusEname\":\"\",\"positionCategoryId\":0,\"positionCategoryName\":\"\",\"positionId\":7,\"positionName\":\"出纳\",\"positionSerialId\":0,\"positionSerialName\":\"\",\"positionTypeId\":4,\"positionTypeName\":\"财务岗\",\"positiveDate\":null,\"positiveFlowStatusEid\":0,\"positiveFlowStatusEname\":\"\",\"probation\":3,\"probationEndDate\":null,\"rehireDate\":null,\"rehireId\":0,\"relationshipEid\":0,\"relationshipEname\":\"\",\"securityLevel\":10,\"sex\":1,\"socialEmployDate\":{\"date\":1,\"day\":1,\"hours\":0,\"minutes\":0,\"month\":6,\"seconds\":0,\"time\":1561910400000,\"timezoneOffset\":-480,\"year\":119},\"socialEmployDateStr\":\"2019-03-01\",\"suitSizeEid\":0,\"suitSizeEname\":\"\",\"teacherId\":0,\"teacherName\":\"\",\"workCode\":\"123\"}]",
+                "operatorTypeId": 1,
+                "operatorId": 14,
+                "operatorName": "柚柚(柚子)",
+                "gmtCreated": "2019-08-27 19:18:24"
+            }
+        ],
+        "empty": false
+    },
+    "success": true
+}

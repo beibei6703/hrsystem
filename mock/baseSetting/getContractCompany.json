@@ -1,0 +1,38 @@
+{
+    "code": 0,
+    "message": "成功!",
+    "appName": "hrm-system-service",
+    "data": [
+        {
+            "id": 1,
+            "name": "浙江集远网络科技有限公司",
+            "bankEid": 3,
+            "deleted": 0,
+            "sort": 1,
+            "gmtCreated": "2019-05-09T22:19:16.000+0000",
+            "gmtModified": "2019-06-03T21:16:07.000+0000",
+            "bankEname": "浦东发展银行"
+        },
+        {
+            "id": 2,
+            "name": "安徽云合网络科技有限公司",
+            "bankEid": 1,
+            "deleted": 0,
+            "sort": null,
+            "gmtCreated": "2019-06-03T21:20:10.000+0000",
+            "gmtModified": "2019-06-03T21:20:10.000+0000",
+            "bankEname": "招商银行"
+        },
+        {
+            "id": 3,
+            "name": "上海素野化妆品有限公司",
+            "bankEid": 2,
+            "deleted": 0,
+            "sort": null,
+            "gmtCreated": "2019-06-03T21:23:32.000+0000",
+            "gmtModified": "2019-06-03T21:28:49.000+0000",
+            "bankEname": "中国建设银行"
+        }
+    ],
+    "success": true
+}

@@ -1,0 +1,16 @@
+{
+    "code": 0,
+    "message": "成功!",
+    "appName": "hrm-system-service",
+    "data": {
+        "id": 1,
+        "employeeId": 1,
+        "docTypeEid": 1,
+        "docTypeEname": "档案类型",
+        "resourceUrl": "资源地址",
+        "departmentId": 1,
+        "departmentName": "部门名称",
+        "deleted": 1
+    },
+    "success": true
+}

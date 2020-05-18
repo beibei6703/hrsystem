@@ -1,0 +1,13 @@
+{
+  "code": 0,
+  "message": "成功!",
+  "appName": "hrm-system-service",
+  "data": {
+    "id": 1,
+    "name": "it岗",
+    "positionNames":"工程师，精算师",
+    "departmentNames": "财务部，it部",
+    "remark": "职责是。。。。。。"
+    },
+  "success": true
+}

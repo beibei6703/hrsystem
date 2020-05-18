@@ -1,0 +1,46 @@
+{
+    "code": 0,
+    "message": "成功!",
+    "appName": "hrm-system-service",
+    "data": [
+        {
+            "employeeId": 31,
+            "name": "孙贝贝",
+            "workCode": "144",
+            "cityEid": 1,
+            "companyName": null,
+            "departmentTree": "IT23/IT/IT产品技术组",
+            "positionName": "测试用的",
+            "joinDate": "2019-09-07",
+            "mobile": null,
+            "nickName": "红雪",
+            "employTypeName": "正式员工",
+            "avatar": null,
+            "companyYear": null,
+            "employeeStatusEid": 2,
+            "rehireId": null,
+            "employeeStatusEname": "正式",
+            "cityEname": "杭州"
+        },
+        {
+            "employeeId": 32,
+            "name": "孙贝贝",
+            "workCode": "145",
+            "cityEid": 1,
+            "companyName": null,
+            "departmentTree": "IT23/IT/IT产品技术组",
+            "positionName": "测试用的",
+            "joinDate": "2019-09-07",
+            "mobile": null,
+            "nickName": "红花",
+            "employTypeName": "正式员工",
+            "avatar": null,
+            "companyYear": null,
+            "employeeStatusEid": 2,
+            "rehireId": null,
+            "employeeStatusEname": "正式",
+            "cityEname": "杭州"
+        }
+    ],
+    "success": true
+}

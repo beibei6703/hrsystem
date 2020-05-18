@@ -1,0 +1,13 @@
+{
+    "code": 0,
+    "message": "成功!",
+    "appName": "hrm-system-service",
+    "data": [
+        {
+            "defCode": "change_status",
+            "eid": 0,
+            "ename": "待审批"
+        }
+    ],
+    "success": true
+}

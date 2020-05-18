@@ -1,0 +1,25 @@
+{
+    "code": 0,
+    "message": "成功!",
+    "appName": "hrm-system-service",
+    "data": [{
+        "id": 1,
+        "reson": "精神客家",
+        "activeDate": "activeDate",
+        "personnelChangesTypeEname": "personnelChangesTypeEname",
+        "reason": "reason",
+        "changeStatusEname": "changeStatusEname",
+        "changeFromDepartment": "changeFromDepartment",
+        "changeToDepartment": "changeToDepartment"
+    },{
+        "id": 1,
+        "reson": "精神客家",
+        "activeDate": "activeDate",
+        "personnelChangesTypeEname": "personnelChangesTypeEname",
+        "reason": "reason",
+        "changeStatusEname": "changeStatusEname",
+        "changeFromDepartment": "changeFromDepartment",
+        "changeToDepartment": "changeToDepartment"
+    }],
+    "success": true
+}

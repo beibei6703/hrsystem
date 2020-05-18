@@ -1,0 +1,16 @@
+{
+    "code": 0,
+    "message": "成功!",
+    "appName": "hrm-system-service",
+    "data": {
+        "employeeId": 1,
+        "haveSubEmployee": false,
+        "leaveSubordinateSuccessor": [{"successor":"xx",
+        "subordinate":"aa,bb,cc"}],
+        "leaveReason": "xxx",
+        "lastWorkDate": "2019-09-12",
+        "leaveDate": "2019-09-12",
+        "leaveEffectDate": "2019-09-15"
+    },
+    "success": true
+}

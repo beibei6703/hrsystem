@@ -1,0 +1,16 @@
+{
+    "code": 0,
+    "message": "成功!",
+    "appName": "hrm-system-service",
+    "data": [
+        {
+            "id": 1,
+            "name": "正式员工",
+            "workCodeRuleId": 1,
+            "autoSync": 1,
+            "gmtCreated": "2019-05-09T22:19:43.000+0000",
+            "gmtModified": "2019-06-04T23:12:03.000+0000"
+        }
+    ],
+    "success": true
+}

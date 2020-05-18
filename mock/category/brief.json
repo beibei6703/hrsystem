@@ -1,0 +1,10 @@
+{
+  "code": 0,
+  "message": "成功!",
+  "appName": "hrm-system-service",
+  "data": [{
+    "id": 1,
+    "name": "a职类"
+    }],
+  "success": true
+}

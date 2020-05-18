@@ -1,0 +1,36 @@
+{
+    "code": 0,
+    "message": "成功!",
+    "appName": "common-data",
+    "data": [
+      {
+        "defCode": "bank",
+        "eid": 1,
+        "ename": "招商银行",
+        "remark": "",
+        "sort": null
+      },
+      {
+        "defCode": "bank",
+        "eid": 2,
+        "ename": "中国建设银行",
+        "remark": "",
+        "sort": null
+      },
+      {
+        "defCode": "bank",
+        "eid": 3,
+        "ename": "浦东发展银行",
+        "remark": "",
+        "sort": null
+      },
+      {
+        "defCode": "bank",
+        "eid": 4,
+        "ename": "兴业银行",
+        "remark": null,
+        "sort": null
+      }
+    ],
+    "success": true
+  }

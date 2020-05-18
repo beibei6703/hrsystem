@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "message": "成功!",
+    "appName": "hrm-system-service",
+    "data": [{
+       "employeeId": 2407,
+       "name": "name",
+       "result": "result",
+       "potential": "potential",
+       "valuePoint": "valuePoint",
+       "evaluation": "evaluation",
+       "upgraded": "upgraded",
+       "employeeGradeEid": 1,
+       "employeeGradeEname": 1,
+       "jobTitleId": 1,
+       "jobTitleName": "jobTitleName",
+       "upgradeDate": "upgradeDate"
+    }],
+    "success": true
+}

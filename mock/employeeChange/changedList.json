@@ -1,0 +1,31 @@
+{
+    "code": 0,
+    "message": "成功!",
+    "appName": "hrm-system-service",
+    "data": {
+        "offset": 0,
+        "limit": 5000,
+        "total": 1,
+        "count": null,
+        "pageNo": 1,
+        "pageSize": 5000,
+        "list": [
+            {
+                "id": 4,
+                "employeeId": 1,
+                "name": "王二狗",
+                "workCode": "0039",
+                "nickName": "狗子",
+                "companyName": "abc公司",
+                "departmentName": "云集/后台/总裁办",
+                "positionName": "保洁",
+                "typeName": "正式员工",
+                "cityEname": "杭州",
+                "personnelChangesTypeEname": "部门调整",
+                "changeContent": "调入b部门。。。",
+                "changeStatusEname": "待审批"
+            }
+        ]
+    },
+    "success": true
+}

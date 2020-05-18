@@ -1,0 +1,17 @@
+{
+    "code": 0,
+    "message": "成功!",
+    "appName": "hrm-system-service",
+    "data": {
+        "inServiceCount": 10,
+        "toJoinCount": 5,
+        "trialPeriodCount": 9,
+        "fullTimeCount": 17,
+        "internCount": 0,
+        "managementTraineeCount": 0,
+        "personnelOutCount": 0,
+        "laborOutCount": 0,
+        "businessOutCount": 0
+    },
+    "success": true
+}

@@ -1,0 +1,83 @@
+.tableCon {
+    padding: 0 20px;
+    /*display:flex;*/
+}
+
+.left-top {
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.left-top >>> .el-input {
+    width: 200px !important;
+    height: 30px;
+    margin-right: 30px;
+}
+
+.left-top >>> .el-input__inner {
+    width: 200px !important;
+    height: 30px !important;
+}
+
+.left-top >>> .el-input__icon {
+    line-height: 0px;
+}
+.btns {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 0 0 20px 0;
+}
+
+.btns >>> .el-button {
+    padding: 6px 15px;
+    margin-right: 10px;
+}
+
+.enterys >>> .el-button {
+    padding: 6px 15px;
+    margin-right: 10px;
+}
+
+.tables >>> .cell {
+    height: 40px;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    white-space: nowrap !important;
+    line-height: 40px !important;
+    padding: 0 !important;
+}
+
+.tables >>> .el-table th {
+    padding: 0 !important;
+    font-weight: 500;
+    font-size: 12px;
+    color: #666666;
+    background: #f3f5f7;
+}
+.tables >>> .el-table::before {
+    display: none;
+}
+
+.tables >>> .el-table::before {
+    display: none;
+}
+
+.tables >>> .el-table td {
+    padding: 0 !important;
+    font-size: 12px;
+    color: #4a4c4d;
+}
+
+.pageCon {
+    margin-top: 20px;
+}
+
+.pageCon >>> .el-pagination {
+    float: right;
+    font-size: 12px;
+    color: #606266 !important;
+}
+

@@ -1,0 +1,21 @@
+{
+    "code": 0,
+    "message": "成功!",
+    "appName": "hrm-system-service",
+    "data": {
+        "employeeId": 1,
+        "name": "肖尚略",
+        "workCode": "0001",
+        "cityEid": 1,
+        "companyName": "浙江集远网络科技有限公司",
+        "departmentTree": "后台/总裁办",
+        "positionName": "CEO",
+        "joinDate": "2014-01-04",
+        "mobile": "188",
+        "nickName": "泰迪",
+        "employTypeName": "正式员工",
+        "avatar": null,
+        "cityEname": "杭州"
+    },
+    "success": true
+}

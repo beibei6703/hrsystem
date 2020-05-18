@@ -1,0 +1,13 @@
+{
+  "code": 0,
+  "message": "成功!",
+  "appName": "hrm-system-service",
+  "data": [{
+    "id": 1,
+    "name": "a序列",
+    "categoryName":"专业类",
+    "count":10,
+    "positionTypeNames": "aa岗，bb岗"
+    }],
+  "success": true
+}
